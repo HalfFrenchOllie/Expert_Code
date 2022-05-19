@@ -5,3 +5,8 @@ This is where some of my harder projects live
 have this libary installed (if you dont just run this command in your CMD "pip install opencv-python")
 inside this file you will find the following python programs (not in order):
 Camera_Access
+
+
+future projects:
+
+would be nice to make expert pop up calculator 
